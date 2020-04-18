@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Hasan Kurban, Ph.D.</title>
+    <link>/tag/data-science/</link>
+      <atom:link href="/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Data Science</title>
+      <link>/tag/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Structural Analysis of Nanoparticles</title>
+      <link>/project/m1-project/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/m1-project/</guid>
+      <description>&lt;p&gt;In order to conduct structural analysis, we also developed programs in R language (discussed in the next section) to analyze the number of bonds, segregation phenomena, and RDF.&lt;/p&gt;
+&lt;p&gt;We perform a theoretical investigation using the density functional tight binding (DFTB) approach for the structural analysis and electronic structure of copper hydride (CuH) metallic nanoparticles (NPs) of different size (from 204 to 2418 atoms). By increasing the size of CuH NPs, the number of bonds, segregation phenomena and radial distribution function (RDF) of binary Cu-Cu, Cu-H and H-H interactions are investigated using new algorithms. The results reveal that the number of bonds Cu-Cu is larger than that of Cu-H while H2 bonds are the smallest. Thus, the ability of Cu atoms to absorb large amounts of H is more than H2. The increase in the size of the NPs contributes to the stabilization because of the enhanced strength of H–H bonding. The segregation of Cu and H atoms show that Cu atoms tend to co-locate at the center, while H atoms tend to reside on the surface. From the density of state (DOS) analysis, CuH NPs shows a metallic character which is compatible with experimental data. HOMO and Fermi levels decrease from -3.555 to -3.443 eV and from -3.510 to -3.441 eV. Herein, an increase in the size contributes to the stabilization of CuH NP due to decrease in the HOMO energies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Public Transportation Optimization</title>
+      <link>/project/bus-project/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/bus-project/</guid>
+      <description>&lt;p&gt;Using a large volume of bus data in the form of GPS coordinates (over 100 million data points) and automated
+passenger count data (over 1 million data points) we have developed (1) a system of analysis and prediction of future public transportation demand (2) a new model that uses concepts specific to college campuses that maximizes passenger satisfaction. Using these concepts we improve service of a model college public transportation service and more specifically&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Coral Reef Analysis</title>
+      <link>/project/climate-project/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/project/climate-project/</guid>
+      <description>&lt;p&gt;The challenges presented by data to scientific inquiry and hypothesis testing in an oceanographic setting
+are not new problems. Indeed, the challenges are at least a century old. The problems are not with the data itself, but rather with the attention to the management of the “data ecology” in the information systems. Data needs to be accessible as an input to scientific inquiry—a requirement that goes far beyond simply centralizing the available data. Our research focuses on the development of a proofof-concept system that properly handles an information ecology. The power of such a strong foundation is then demonstrated in two ways: (1) through our data driven hypothesis generation system, built and employed for analysis of the relationship between coral disease and temperature in the Caribbean; (2) through programmatic search for patterns and anti-patterns that verify, falsify, or demonstrate no discernible relationship for a set of
+variants on a particular temperature–disease hypothesis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

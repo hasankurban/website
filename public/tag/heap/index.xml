@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heap | Hasan Kurban, Ph.D.</title>
+    <link>/tag/heap/</link>
+      <atom:link href="/tag/heap/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heap</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <title>Heap</title>
+      <link>/tag/heap/</link>
+    </image>
+    
+    <item>
+      <title>Iterative Machine Learning</title>
+      <link>/project/kmeans-project/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/kmeans-project/</guid>
+      <description>&lt;p&gt;In this work, we have described an optimization approach that can be used over any iterative optimization
+algorithms to improve their training run-time complexity. To the best of our knowledge, this is the first work that theoretically shows convergence of iterative algorithms over heap structure–instead of over a cost function. This approach is tested over k-means (KM) and expectation-maximization algorithm (EM-T). The experimental results show dramatic improvements over KM and EM-T training run-time through different kinds of testing: scale, dimension, and separability. Regarding cluster error, the traditional algorithms’ and our
+extended algorithms’ performances are similar. For future work, clearly one obvious step is to add seeding to KM* drawing from both k-means++ and kd trees. Additionally,we are interested in the broader question of this approach to iterative converging algorithms. Further, are there better structures than heaps? Lastly, parallelization offers some new challenges, but also opportunities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clustering Big Data</title>
+      <link>/project/em-project/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/project/em-project/</guid>
+      <description>&lt;p&gt;Existing data mining techniques, more particularly iterative learning algorithms, become overwhelmed with big data. While parallelism is an obvious and, usually, necessary strategy, we observe that both (1) continually
+revisiting data and (2) visiting all data are two of the most prominent problems especially for iterative, unsupervised algorithms like Expectation Maximization algorithm for clustering (EM-T). Our strategy is to embed EM-T into a non-linear hierarchical data structure (heap) that allows us to (1) separate data that needs to be revisited from data that does not and (2) narrow the iteration toward the data that is more difficult to cluster. We call this extended EM-T, EM*. We show our EM* algorithm outperform EM-T algorithm over large real world and synthetic data sets. We lastly conclude with some theoretic underpinnings that explain why EM* is successful.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Studying the Milky Way</title>
+      <link>/project/astronomy-project/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/project/astronomy-project/</guid>
+      <description>&lt;p&gt;Dramatic increases in the amount and complexity of stellar data must be matched by new or refined algorithms that can help scientists make sense of this data and so better understand the universe. ParaHeap-k is a parallel cluster algorithm for analyzing big data that can potentially prove useful to astronomical research.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
