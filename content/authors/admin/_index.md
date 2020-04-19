@@ -45,6 +45,7 @@ social:
   link: https://orcid.org/0000-0003-3142-2866
 - icon: researchgate
   icon_pack: ai
+  link: https://www.researchgate.net/profile/Hasan_Kurban
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/hasankurban.cs/?hl=en
