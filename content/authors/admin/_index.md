@@ -6,7 +6,7 @@ bio: I'm a computer scientist & machine learning researcher who loves building i
 education:
   courses:
   - course: Ph.D., Computer Science & minor in Statistics
-    institution: Indiana University Bloomington
+    institution: Indiana University Bloomington 
     year: Sep 2017
   - course: M.Sc., Computer Science
     institution: Indiana University Bloomington
