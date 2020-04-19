@@ -53,6 +53,6 @@ social:
   link: "files/cv.pdf"
 superuser: true
 ---
-I am a Computer & Data Scientist and my teaching and research interests include machine learning, data mining, big data, data science and artificial intelligence. I have  published various peer-reviewed articles and taught several classes for both of graduate and undergraduate students regarding those areas. During my PhD, I found the opportunity to study machine learning (ML) and data mining (DM) algorithms theoritacally in depth and my dissertation was about an optimization framework designed to improve ML and DM algorithms from a data centric perspective over big data. In my professionel life  I  enjoy building intelligent systems to find data-driven solutions to real-world problems. 
+I am a Computer & Data Scientist and my teaching and research interests include machine learning, data mining, big data, data science and artificial intelligence. I have  published various peer-reviewed articles and taught several classes graduate and undergraduates regarding disciplines. During my PhD, I found the opportunity to study machine learning (ML) and data mining (DM) algorithms theoritacally in depth and my dissertation was about an optimization framework designed to improve ML and DM algorithms from a data centric perspective over big data. In my professionel life  I  enjoy building intelligent systems to find data-driven solutions to real-world problems. 
 
 
