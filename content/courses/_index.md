@@ -26,7 +26,7 @@ title: Teaching
     + *Applied Machine Learning* (Graduate, Fall 2017)
     + *Online Applied Data Mining* (Graduate, Fall 2017)
     + *Elements of Artificial Intelligence* (Graduate, Spring 2018)
-    + *Introduction to Data Analysis and Mining* (Undergraduate, Spring 2018
+    + *Introduction to Data Analysis and Mining* (Undergraduate, Spring 2018)
     
 * #### Senior Associate Instructor (Head Associate Instructor), Indiana University, Bloomington, IN, USA
     + *Data Mining* (Graduate, Fall 2016)
