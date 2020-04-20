@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Can Kockan | Hasan Kurban, Ph.D.</title>
-    <link>/author/can-kockan/</link>
-      <atom:link href="/author/can-kockan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hasankurban.netlify.app/author/can-kockan/</link>
+      <atom:link href="https://hasankurban.netlify.app/author/can-kockan/index.xml" rel="self" type="application/rss+xml" />
     <description>Can Kockan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Code with  and  Blogdown
 © Hasan Kurban, 2020</copyright><lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <url>https://hasankurban.netlify.app/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
       <title>Can Kockan</title>
-      <link>/author/can-kockan/</link>
+      <link>https://hasankurban.netlify.app/author/can-kockan/</link>
     </image>
     
     <item>
       <title>Improving expectation maximization algorithm over stellar data</title>
-      <link>/publication/case2/</link>
+      <link>https://hasankurban.netlify.app/publication/case2/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/case2/</guid>
+      <guid>https://hasankurban.netlify.app/publication/case2/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Case Study: Clustering Big Stellar Data with EM</title>
-      <link>/publication/case-study1/</link>
+      <link>https://hasankurban.netlify.app/publication/case-study1/</link>
       <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/case-study1/</guid>
+      <guid>https://hasankurban.netlify.app/publication/case-study1/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 &lt;p&gt;Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.&lt;/p&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
