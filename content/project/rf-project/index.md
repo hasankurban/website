@@ -11,7 +11,7 @@ image:
 #  url: 
 #slides: 
 
-summary:Red-RF: Reduced Random Forest
+summary:Red-RF: Red-rf: Reduced random forest for big data using priority voting & dynamic data reduction
 tags:
 - Classification
 - Big Data
