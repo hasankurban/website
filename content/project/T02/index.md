@@ -10,12 +10,14 @@ image:
 #  name: 
 #  url: 
 #slides: 
-summary: Tailoring the structural properties and electronic structure of anatase, brookite and rutile phase TiO2 nanoparticles: DFTB calculations
+summary:  Deep Analysis of  TiO2 Nanoparticles
 tags:
-- Big Data
-- Data Science
-- Public Transportation
-title:   DFTB Calculations
+-  Data Science
+-  Data Analysis
+-  DFTB
+-  Nanoparticles
+-  Material Science
+title:  DFTB calculations
 url_code: ""
 url_pdf: ""
 url_slides: ""

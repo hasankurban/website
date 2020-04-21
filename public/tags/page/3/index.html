@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="Computer Scientist">
+  <meta name="description" content="Hasan Kurban&#39;s Personal Website">
 
   
   <link rel="alternate" hreflang="en-us" href="/tags/">
@@ -203,6 +203,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-37440121-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-37440121-3', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -210,12 +248,12 @@
   
 
   
-  <link rel="alternate" href="/tags/index.xml" type="application/rss+xml" title="Dr. Hasan Kurban">
+  <link rel="alternate" href="/tags/index.xml" type="application/rss+xml" title="Hasan Kurban, Ph.D.">
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/tags/">
 
@@ -232,11 +270,11 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Dr. Hasan Kurban">
+  <meta property="og:site_name" content="Hasan Kurban, Ph.D.">
   <meta property="og:url" content="/tags/">
-  <meta property="og:title" content="Tags | Dr. Hasan Kurban">
-  <meta property="og:description" content="Computer Scientist"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="Tags | Hasan Kurban, Ph.D.">
+  <meta property="og:description" content="Hasan Kurban&#39;s Personal Website"><meta property="og:image" content="/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-20T00:00:00&#43;00:00">
   
@@ -255,7 +293,7 @@
 
 
 
-  <title>Tags | Dr. Hasan Kurban</title>
+  <title>Tags | Hasan Kurban, Ph.D.</title>
 
 </head>
 
@@ -306,7 +344,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Dr. Hasan Kurban</a>
+      <a class="navbar-brand" href="/">Hasan Kurban, Ph.D.</a>
     </div>
     
 
@@ -319,7 +357,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Dr. Hasan Kurban</a>
+      <a class="navbar-brand" href="/">Hasan Kurban, Ph.D.</a>
     </div>
     
 
@@ -396,28 +434,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
           <a class="nav-link " href="/publication/"><span>Publications</span></a>
         </li>
 
@@ -460,16 +476,9 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>News</span></a>
+          <a class="nav-link " href="/files/cv.pdf"><span>CV</span></a>
         </li>
 
         
@@ -717,19 +726,9 @@
   <div class="container">
     <footer class="site-footer">
   
-  <p class="powered-by">
-    
-      <a href="/privacy/">Privacy Policy</a>
-    
-    
-       &middot; 
-      <a href="/terms/">Terms</a>
-    
-  </p>
-  
 
   <p class="powered-by">
-    
+    Code with <i class='fas fa-heart'></i> and <i class='fab fa-r-project'></i> <a href='https://bookdown.org/yihui/blogdown/'>Blogdown</a><br>© Hasan Kurban, 2020 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
