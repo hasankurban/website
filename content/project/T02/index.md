@@ -10,14 +10,14 @@ image:
 #  name: 
 #  url: 
 #slides: 
-summary:  Deep Analysis of  TiO2 Nanoparticles
+summary:  DFTB calculations
 tags:
 -  Data Science
 -  Data Analysis
 -  DFTB
 -  Nanoparticles
 -  Material Science
-title:  DFTB calculations
+title:  Deep Analysis of  TiO2 Nanoparticles
 url_code: ""
 url_pdf: ""
 url_slides: ""
