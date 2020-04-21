@@ -18,6 +18,46 @@
   </url>
   
   <url>
+    <loc>/tag/data-analysis/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/data-science/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/t02/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/dftb/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/material-science/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nanoparticles/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/big-data/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -43,22 +83,12 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/package-project/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/r-programming/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,22 +153,7 @@
   </url>
   
   <url>
-    <loc>/tag/data-science/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/jm1/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/material-science/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/nanoparticles/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -169,21 +184,6 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/data-analysis/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/t02/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/dftb/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
