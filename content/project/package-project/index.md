@@ -19,6 +19,7 @@ tags:
 - Expectation Maximization
 - Data Mining
 - Heap
+- R programming
 title: R Package 
 url_code: ""
 url_pdf: "https://cran.r-project.org/web/packages/DCEM/DCEM.pdf"
