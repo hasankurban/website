@@ -19,7 +19,7 @@ tags:
 - Nanoparticles
 - Material Science
 - Segregation phenomena
-title: Structural Analysis of Nanoparticles
+title: Structural Analysis 
 url_code: ""
 url_pdf: "https://www.sciencedirect.com/science/article/pii/S2352492819307469"
 url_slides: ""

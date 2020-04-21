@@ -13,7 +13,7 @@ title: Teaching
     + Artificial Intelligence *(Undergraduate, Fall 2020)*
     
 
-* #### Dr. Lecturer Computer Engineering Department, [Siirt University, Turkey](http://bilgisayar.siirt.edu.tr/detay/general-information/768093053.html)
+* #### Dr. Lecturer, Computer Engineering Department, [Siirt University, Turkey](http://bilgisayar.siirt.edu.tr/detay/general-information/768093053.html)
     + Data Structures *(Undergraduate, Fall 2018)*
     + Artificial Neural Networks *(Undergraduate, Fall 2018, Fall 2019)*
     + Introduction to Computer Engineering *(Undergraduate, Fall 2018, Fall 2019)*
