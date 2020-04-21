@@ -28,7 +28,7 @@ title: Teaching
     + Elements of Artificial Intelligence *(Graduate, Spring 2018)*
     + Introduction to Data Analysis and Mining *(Undergraduate, Spring 2018)*
     
-* #### Senior Associate Instructor (Head Associate Instructor), [Indiana University, Bloomington, IN, USA](https://luddy.indiana.edu/about/facilities/index.html)
+* ##### Senior Associate Instructor (Head Associate Instructor), [Indiana University, Bloomington, IN, USA](https://luddy.indiana.edu/about/facilities/index.html)
     + Data Mining *(Graduate, Fall 2016)*
     + Introduction to Artificial Intelligence *(Graduate Spring 2017)*
 
