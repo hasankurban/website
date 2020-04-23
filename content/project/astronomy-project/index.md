@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: An Expectation Maximization Algorithm for Big Data
+summary: Studying the milky way galaxy using paraheap-k
 tags:
 - Clustering
 - Big Data
