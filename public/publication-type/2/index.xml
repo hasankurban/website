@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Dr. Hasan Kurban</title>
-    <link>https://hasankurban.netlify.app/publication-type/2/</link>
-      <atom:link href="https://hasankurban.netlify.app/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Code with  and  Blogdown
 © Hasan Kurban, 2020</copyright><lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hasankurban.netlify.app/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>https://hasankurban.netlify.app/publication-type/2/</link>
+      <link>/publication-type/2/</link>
     </image>
     
     <item>
       <title>Controlling structural and electronic properties of ZnO NPs: Density-functional tight-binding method</title>
-      <link>https://hasankurban.netlify.app/publication/jm3/</link>
+      <link>/publication/jm3/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://hasankurban.netlify.app/publication/jm3/</guid>
+      <guid>/publication/jm3/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Study of Structural and Optoelectronic Properties of Hexagonal ZnO Nanoparticles</title>
-      <link>https://hasankurban.netlify.app/publication/cm2/</link>
+      <link>/publication/cm2/</link>
       <pubDate>Mon, 30 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://hasankurban.netlify.app/publication/cm2/</guid>
+      <guid>/publication/cm2/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Density-functional tight-binding approach for the structural analysis and electronic structure of copper hydride metallic nanoparticles</title>
-      <link>https://hasankurban.netlify.app/publication/jm1/</link>
+      <link>/publication/jm1/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://hasankurban.netlify.app/publication/jm1/</guid>
+      <guid>/publication/jm1/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Size Dependent Electronic Structure and Structural Properties of Cupric Oxide (CuO) NanoParticles</title>
-      <link>https://hasankurban.netlify.app/publication/jm2/</link>
+      <link>/publication/jm2/</link>
       <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://hasankurban.netlify.app/publication/jm2/</guid>
+      <guid>/publication/jm2/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Using data to build a better EM: EM* for big data</title>
-      <link>https://hasankurban.netlify.app/publication/jdsaa/</link>
+      <link>/publication/jdsaa/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://hasankurban.netlify.app/publication/jdsaa/</guid>
+      <guid>/publication/jdsaa/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Studying the milky way galaxy using paraheap-k</title>
-      <link>https://hasankurban.netlify.app/publication/ast/</link>
+      <link>/publication/ast/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://hasankurban.netlify.app/publication/ast/</guid>
+      <guid>/publication/ast/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>
