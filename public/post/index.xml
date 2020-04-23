@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Hasan Kurban, Ph.D.</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Hasan Kurban</title>
+    <link>https://hasankurban.netlify.app/post/</link>
+      <atom:link href="https://hasankurban.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Code with  and  Blogdown
 © Hasan Kurban, 2020</copyright>
     <image>
-      <url>/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <url>https://hasankurban.netlify.app/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://hasankurban.netlify.app/post/</link>
     </image>
     
   </channel>
