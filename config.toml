@@ -20,6 +20,8 @@ googleAnalytics = "UA-37440121-3"
 copyright = "Code with <i class='fas fa-heart'></i> and <i class='fab fa-r-project'></i> <a href='https://bookdown.org/yihui/blogdown/'>Blogdown</a><br>&copy; Hasan Kurban, {year}"
 
 
+enableRobotsTXT = true
+canonifyURLs = true
 ############################
 ## Advanced options below ##
 ############################
