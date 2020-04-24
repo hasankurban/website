@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Hasan Kurban, Ph.D.</title>
-    <link>https://hasankurban.netlify.app/authors/</link>
-      <atom:link href="https://hasankurban.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Code with  and  Blogdown
 © Hasan Kurban, 2020</copyright><lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hasankurban.netlify.app/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://hasankurban.netlify.app/authors/</link>
+      <link>/authors/</link>
     </image>
     
   </channel>
