@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Owen Boberg | Hasan Kurban, Ph.D.</title>
-    <link>https://www.hasankurban.com/author/owen-boberg/</link>
-      <atom:link href="https://www.hasankurban.com/author/owen-boberg/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/owen-boberg/</link>
+      <atom:link href="/author/owen-boberg/index.xml" rel="self" type="application/rss+xml" />
     <description>Owen Boberg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Code with  and  Blogdown
 © Hasan Kurban, 2020</copyright><lastBuildDate>Mon, 15 Sep 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
       <title>Owen Boberg</title>
-      <link>https://www.hasankurban.com/author/owen-boberg/</link>
+      <link>/author/owen-boberg/</link>
     </image>
     
     <item>
       <title>Studying the milky way galaxy using paraheap-k</title>
-      <link>https://www.hasankurban.com/publication/ast/</link>
+      <link>/publication/ast/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.hasankurban.com/publication/ast/</guid>
+      <guid>/publication/ast/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>

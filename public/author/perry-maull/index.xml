@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Perry Maull | Hasan Kurban, Ph.D.</title>
-    <link>https://www.hasankurban.com/author/perry-maull/</link>
-      <atom:link href="https://www.hasankurban.com/author/perry-maull/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/perry-maull/</link>
+      <atom:link href="/author/perry-maull/index.xml" rel="self" type="application/rss+xml" />
     <description>Perry Maull</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Code with  and  Blogdown
 © Hasan Kurban, 2020</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
       <title>Perry Maull</title>
-      <link>https://www.hasankurban.com/author/perry-maull/</link>
+      <link>/author/perry-maull/</link>
     </image>
     
     <item>
       <title>Using data analytics to optimize public transportation on a college campus</title>
-      <link>https://www.hasankurban.com/publication/bus/</link>
+      <link>/publication/bus/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.hasankurban.com/publication/bus/</guid>
+      <guid>/publication/bus/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

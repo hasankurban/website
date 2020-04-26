@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hussein Mohsen | Hasan Kurban, Ph.D.</title>
-    <link>https://www.hasankurban.com/author/hussein-mohsen/</link>
-      <atom:link href="https://www.hasankurban.com/author/hussein-mohsen/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/hussein-mohsen/</link>
+      <atom:link href="/author/hussein-mohsen/index.xml" rel="self" type="application/rss+xml" />
     <description>Hussein Mohsen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Code with  and  Blogdown
 © Hasan Kurban, 2020</copyright><lastBuildDate>Sat, 27 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.hasankurban.com/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png</url>
       <title>Hussein Mohsen</title>
-      <link>https://www.hasankurban.com/author/hussein-mohsen/</link>
+      <link>/author/hussein-mohsen/</link>
     </image>
     
     <item>
       <title>Red-RF: Reduced random forest for big data using priority voting &amp; dynamic data reduction</title>
-      <link>https://www.hasankurban.com/publication/bigdatarf2/</link>
+      <link>/publication/bigdatarf2/</link>
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.hasankurban.com/publication/bigdatarf2/</guid>
+      <guid>/publication/bigdatarf2/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A new set of Random Forests with varying dynamic data reduction and voting techniques</title>
-      <link>https://www.hasankurban.com/publication/dsaarf/</link>
+      <link>/publication/dsaarf/</link>
       <pubDate>Thu, 30 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://www.hasankurban.com/publication/dsaarf/</guid>
+      <guid>/publication/dsaarf/</guid>
       <description>&lt;p&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/p&gt;
 </description>
     </item>
