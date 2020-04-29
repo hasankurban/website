@@ -10,6 +10,7 @@ title: Teaching
 
     + Elements of Artificial Intelligence *(Graduate, Fall 2020)*
     + Database Concepts *(Undergraduate, Fall 2020)*
+    + Online Elements of Artificial Intelligence *(Graduate, Fall 2020)*
 
 * #### Dr. Lecturer, Computer Engineering Department, [Siirt University, Turkey](http://bilgisayar.siirt.edu.tr/detay/general-information/768093053.html)
     + Data Structures *(Undergraduate, Fall 2018)*
@@ -37,13 +38,3 @@ title: Teaching
     + Seminar in Computer Science: Data Mining *(Undergraduate, Fall 20114, Fall 2015)
     + Topics in Algorithms and Computing Theory *(Graduate, Fall 2014)*
     + Real World Data Science *(Graduate, Summer 2016): Online class sponsored by [Eli Lilly and Company](https://www.lilly.com/)*
-
-
-
-
-
-
-
-
-
-
