@@ -5,12 +5,6 @@ header:
 layout: docs
 title: Teaching
 ---
-    
-* #### Visiting Assistant Professor, Computer Science Department, [Indiana University, Bloomington, IN, USA](https://luddy.indiana.edu/about/facilities/index.html)
-
-    + Elements of Artificial Intelligence *(Graduate, Fall 2020)*
-    + Database Concepts *(Undergraduate, Fall 2020)*
-    + Online Elements of Artificial Intelligence *(Graduate, Fall 2020)*
 
 * #### Dr. Lecturer, Computer Engineering Department, [Siirt University, Turkey](http://bilgisayar.siirt.edu.tr/detay/general-information/768093053.html)
     + Data Structures *(Undergraduate, Fall 2018)*
