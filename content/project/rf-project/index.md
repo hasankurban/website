@@ -18,6 +18,7 @@ tags:
 - Random Forests
 - Weighted Voting
 - Machine Learning
+- Artificial Intelligence
 title: Random Forest
 url_code: ""
 url_pdf: "https://ieeexplore.ieee.org/abstract/document/7207210"

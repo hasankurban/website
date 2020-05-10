@@ -25,7 +25,6 @@ publication_short: In *IEEE/ACM International Conference on Big Data Computing, 
 summary:
 
 tags:
-- Source Themes
 featured: true
 
 links:

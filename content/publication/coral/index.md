@@ -26,7 +26,6 @@ publication_short: In *The International Workshop on Climate Informatics (CI)*
 summary:
 
 tags:
-- Source Themes
 featured: true
 
 links:

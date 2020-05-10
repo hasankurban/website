@@ -18,7 +18,6 @@ tags:
 - Computational Science
 - Nanoparticles
 - Material Science
-- Segregation phenomena
 - Data Analysis
 title: Structural Analysis 
 url_code: ""

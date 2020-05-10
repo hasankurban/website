@@ -19,6 +19,7 @@ tags:
 - Expectation Maximization
 - Data Mining
 - Heap
+- Artificial Intelligence 
 title: Clustering Big Data 
 url_code: ""
 url_pdf: "https://link.springer.com/article/10.1007/s41060-017-0062-1"

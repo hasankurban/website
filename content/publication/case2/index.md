@@ -25,7 +25,6 @@ publication_short: In *IEEE International Conference on Big Data (Big Data)*
 summary:
 
 tags:
-- Source Themes
 featured: true
 
 links:

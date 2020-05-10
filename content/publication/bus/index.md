@@ -27,7 +27,6 @@ publication_short: In *IEEE international conference on data science and advance
 summary:
 
 tags:
-- Source Themes
 featured: true
 
 links:

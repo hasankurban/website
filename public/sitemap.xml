@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/data-analysis/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
@@ -34,6 +19,11 @@
   
   <url>
     <loc>/tag/dftb/</loc>
+    <lastmod>2020-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-04-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -138,11 +128,6 @@
   </url>
   
   <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/cm2/</loc>
     <lastmod>2019-12-30T00:00:00+00:00</lastmod>
   </url>
@@ -158,11 +143,6 @@
   </url>
   
   <url>
-    <loc>/tag/segregation-phenomena/</loc>
-    <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/jm2/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
   </url>
@@ -170,16 +150,6 @@
   <url>
     <loc>/project/m1-project/</loc>
     <lastmod>2019-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -263,12 +233,22 @@
   </url>
   
   <url>
+    <loc>/tag/artificial-intelligence/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/em-project/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/jdsaa/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/m2/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -368,10 +348,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
   </url>
   
   <url>

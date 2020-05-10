@@ -234,7 +234,7 @@
   }
 
   gtag('js', new Date());
-  gtag('config', 'UA-37440121-3', {});
+  gtag('config', 'UA-37440121-3', { 'anonymize_ip': true });
 
   
   document.addEventListener('click', onClickCallback, false);
@@ -278,7 +278,7 @@
   <meta property="og:description" content="Assistant Professor, Ph.D: Indiana University Bloomington, Researh Interests: Machine Learning, Data Minning, Big Data, Artificial Intelligence, Computer Science and Data Science"><meta property="og:image" content="/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu20e5e5b4446f9fea2c18d55ef2678e39_24096_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2030-06-01T13:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-04-22T00:00:00&#43;00:00">
   
 
   
@@ -301,6 +301,36 @@
 
 
   
+  
+  
+  
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha256-5VhCqFam2Cn+yjw61zbBNrbHVJ6SRydPeKopYlngbiQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha256-zQ0LblD/Af8vOppw18+2anxsuaz3pWYyVWi+bTvTH8Q=" crossorigin="anonymous">
+  
+  <script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#2962ff",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#2962ff"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://www.cookiesandyou.com"
+      }
+    })});
+  </script>
+
 
 
   
@@ -379,7 +409,7 @@
 
     
     
-    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
       
       <ul class="navbar-nav d-md-inline-flex">
@@ -542,23 +572,6 @@
       </li>
       
 
-      
-      <li class="nav-item dropdown theme-dropdown">
-        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
-          <i class="fas fa-palette" aria-hidden="true"></i>
-        </a>
-        <div class="dropdown-menu">
-          <a href="#" class="dropdown-item js-set-theme-light">
-            <span>Light</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-dark">
-            <span>Dark</span>
-          </a>
-          <a href="#" class="dropdown-item js-set-theme-auto">
-            <span>Automatic</span>
-          </a>
-        </div>
-      </li>
       
 
       
@@ -909,15 +922,13 @@
 
 
 
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
+<div class="margin-auto">
 
-    <h1>Projects</h1>
-    
-
+  <div class="center-text">
+    <h1 class="mt-0">Projects</h1>
+    <p>FEATURED PUBLICATIONS</p>
   </div>
-  <div class="col-12 col-lg-8">
-
+  <div>
 
 
     
@@ -967,12 +978,17 @@
                 
                 
                 
-                <a href="#" data-filter=".js-id-Computational-Science" class="btn btn-primary btn-lg">Computational Science</a>
+                <a href="#" data-filter=".js-id-Artificial-Intelligence" class="btn btn-primary btn-lg">Artificial Intelligence</a>
               
                 
                 
                 
-                <a href="#" data-filter=".js-id-Demo" class="btn btn-primary btn-lg">Other</a>
+                <a href="#" data-filter=".js-id-Data-Mining" class="btn btn-primary btn-lg">Data Mining</a>
+              
+                
+                
+                
+                <a href="#" data-filter=".js-id-Software-Engineering" class="btn btn-primary btn-lg">Software Engineering</a>
               
             </div>
           </div>
@@ -1090,7 +1106,7 @@
 
 
 
-<div class="project-card project-item isotope-item js-id-Data-Science js-id-Computational-Science js-id-Nanoparticles js-id-Material-Science js-id-Segregation-phenomena js-id-Data-Analysis">
+<div class="project-card project-item isotope-item js-id-Data-Science js-id-Computational-Science js-id-Nanoparticles js-id-Material-Science js-id-Data-Analysis">
   <div class="card">
     
     
@@ -1219,7 +1235,7 @@
 
 
 
-<div class="project-card project-item isotope-item js-id-Clustering js-id-Big-Data js-id-Expectation-Maximization js-id-Data-Mining js-id-Heap">
+<div class="project-card project-item isotope-item js-id-Clustering js-id-Big-Data js-id-Expectation-Maximization js-id-Data-Mining js-id-Heap js-id-Artificial-Intelligence">
   <div class="card">
     
     
@@ -1305,7 +1321,7 @@
 
 
 
-<div class="project-card project-item isotope-item js-id-Classification js-id-Big-Data js-id-Random-Forests js-id-Weighted-Voting js-id-Machine-Learning">
+<div class="project-card project-item isotope-item js-id-Classification js-id-Big-Data js-id-Random-Forests js-id-Weighted-Voting js-id-Machine-Learning js-id-Artificial-Intelligence">
   <div class="card">
     
     
@@ -1450,7 +1466,12 @@
           
           
           
-          <a href="/tag/big-data/" style="font-size:1.7115966254987365rem">Big Data</a>
+          <a href="/tag/artificial-intelligence/" style="font-size:1.1630693432404289rem">Artificial Intelligence</a>
+        
+          
+          
+          
+          <a href="/tag/big-data/" style="font-size:1.8970168875100824rem">Big Data</a>
         
           
           
@@ -1460,7 +1481,7 @@
           
           
           
-          <a href="/tag/clustering/" style="font-size:1.4826779887263508rem">Clustering</a>
+          <a href="/tag/clustering/" style="font-size:1.6261386864808576rem">Clustering</a>
         
           
           
@@ -1475,17 +1496,17 @@
           
           
           
-          <a href="/tag/data-analysis/" style="font-size:1.0913389943631755rem">Data Analysis</a>
+          <a href="/tag/data-analysis/" style="font-size:1.1630693432404289rem">Data Analysis</a>
         
           
           
           
-          <a href="/tag/data-mining/" style="font-size:1.4826779887263508rem">Data Mining</a>
+          <a href="/tag/data-mining/" style="font-size:1.6261386864808576rem">Data Mining</a>
         
           
           
           
-          <a href="/tag/data-science/" style="font-size:1.4826779887263508rem">Data Science</a>
+          <a href="/tag/data-science/" style="font-size:1.6261386864808576rem">Data Science</a>
         
           
           
@@ -1495,27 +1516,27 @@
           
           
           
-          <a href="/tag/expectation-maximization/" style="font-size:1.320257631135561rem">Expectation Maximization</a>
+          <a href="/tag/expectation-maximization/" style="font-size:1.4339475442696534rem">Expectation Maximization</a>
         
           
           
           
-          <a href="/tag/heap/" style="font-size:1.4826779887263508rem">Heap</a>
+          <a href="/tag/heap/" style="font-size:1.6261386864808576rem">Heap</a>
         
           
           
           
-          <a href="/tag/machine-learning/" style="font-size:1.0913389943631755rem">Machine Learning</a>
+          <a href="/tag/machine-learning/" style="font-size:1.1630693432404289rem">Machine Learning</a>
         
           
           
           
-          <a href="/tag/material-science/" style="font-size:1.0913389943631755rem">Material Science</a>
+          <a href="/tag/material-science/" style="font-size:1.1630693432404289rem">Material Science</a>
         
           
           
           
-          <a href="/tag/nanoparticles/" style="font-size:1.0913389943631755rem">Nanoparticles</a>
+          <a href="/tag/nanoparticles/" style="font-size:1.1630693432404289rem">Nanoparticles</a>
         
           
           
@@ -1540,12 +1561,17 @@
           
           
           
-          <a href="/tag/segregation-phenomena/" style="font-size:0.7rem">Segregation phenomena</a>
+          <a href="/tag/software-engineering/" style="font-size:0.7rem">Software Engineering</a>
         
           
           
           
-          <a href="/tag/source-themes/" style="font-size:1.9405152622711224rem">Source Themes</a>
+          <a href="/tag/unsupervised-learning/" style="font-size:0.7rem">Unsupervised Learning</a>
+        
+          
+          
+          
+          <a href="/tag/weighted-voting/" style="font-size:0.7rem">Weighted Voting</a>
         
       </div>
     

@@ -23,7 +23,6 @@ publication_short: In *Bilecik Seyh Edebali University Journal of Science*
 summary:
 
 tags:
-- Source Themes
 featured: true
 
 links:
