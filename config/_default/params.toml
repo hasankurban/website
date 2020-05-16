@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Assistant Professor, Ph.D: Indiana University Bloomington, Researh Interests: Machine Learning, Data Minning, Big Data, Artificial Intelligence, Computer Science and Data Science"
+description = "Hasan Kurban, Indiana University Bloominngton, Assistant Professor, Researh Interests: Machine Learning, Data Minning, Big Data, Artificial Intelligence, Computer Science and Data Science"
 
 ############################
 ## Site Features
