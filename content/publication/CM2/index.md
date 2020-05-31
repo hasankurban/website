@@ -4,7 +4,7 @@ authors:
 - Hasan Kurban
 - Mustafa Kurban
 date: "2019-12-30T00:00:00Z"
-doi: "110.35193/bseufbd.637349"
+doi: "10.35193/bseufbd.637349"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
