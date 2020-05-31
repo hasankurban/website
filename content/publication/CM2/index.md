@@ -1,8 +1,8 @@
 ---
 title: "Study of Structural and Optoelectronic Properties of Hexagonal ZnO Nanoparticles"
 authors:
+- Hasan Kurban
 - Mustafa Kurban
-- Hasan kurban
 date: "2019-12-30T00:00:00Z"
 doi: "110.35193/bseufbd.637349"
 
