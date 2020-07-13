@@ -1,11 +1,9 @@
 ---
-title: "Using data to build a better EM: EM* for big data"
+title: "Analysis and Modeling of Disease Symptoms and Medical Treatment Areas by
+Text Mining and Data Science Methods"
 authors:
 - Hasan Kurban
-- Mark Jenne
-- Mehmet Dalkilic
-date: "2017-07-05T00:00:00Z"
-doi: "https://doi.org/10.1007/s41060-017-0062-1"
+date: "2020-07-13T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -17,7 +15,8 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Data Science and Analytics"
+publication: "International Journal of Advances in Engineering and
+Pure Sciences (under-review)"
 publication_short: ""
 
 
