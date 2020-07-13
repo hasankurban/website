@@ -1,9 +1,10 @@
 ---
-title: "Analysis and Modeling of Disease Symptoms and Medical Treatment Areas by
-Text Mining and Data Science Methods"
+title: "Data Clustering with EM (DCEM) for Big Data, an R Package"
 authors:
+- Parichit Sharma
 - Hasan Kurban
-date: "2020-07-13T00:00:00Z"
+- Mehmet M Dalkilic
+date: "2020-07-10T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -15,8 +16,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Advances in Engineering and
-Pure Sciences (under-review)"
+publication: " The R Journal (under-review)"
 publication_short: ""
 
 
