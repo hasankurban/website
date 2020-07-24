@@ -29,7 +29,7 @@ featured: true
 
 links:
 url_pdf: https:
-url_code: ''
+url_code: 'https://github.com/hasankurban/atom-type-prediction'
 url_dataset: ''
 url_poster: ''
 url_project: ''
