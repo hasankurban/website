@@ -26,7 +26,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: "https://www.sciencedirect.com/science/article/pii/S0927025620303347?dgcid=author"
-url_pdf:
+url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S0927025620303347'
 url_code: 'https://github.com/hasankurban/Structural-Analysis-NanoParticles'
 url_dataset: ''
 url_poster: ''
