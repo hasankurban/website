@@ -5,7 +5,7 @@ authors:
 - Hasan Kurban
 - Mehmet Dalkilic
 date: "2019-12-30T00:00:00Z"
-doi: ""
+doi: "10.30516/bilgesci.647923"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
