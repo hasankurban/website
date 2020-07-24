@@ -27,7 +27,7 @@ featured: true
 
 links:
 url_pdf: http://dergipark.org.tr/en/pub/bseufbd/issue/49309/637349
-url_code: ''
+url_code: 'https://github.com/hasankurban/Structural-Analysis-NanoParticles'
 url_dataset: ''
 url_poster: ''
 url_project: ''
