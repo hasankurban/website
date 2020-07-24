@@ -5,7 +5,7 @@ authors:
 - Mustafa Kurban
 - Mehmet Dalkilic
 date: "2019-09-26T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.mtcomm.2019.100648"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
