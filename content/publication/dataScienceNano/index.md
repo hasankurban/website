@@ -26,7 +26,7 @@ featured: true
 
 links:
 url_pdf: ''
-url_code: 'https://github.com/hasankurban/atom-type-prediction'
+url_code:   'https://github.com/hasankurban/practical-data-science-over-nanoparticles'
 url_dataset: ''
 url_poster: ''
 url_project: ''
