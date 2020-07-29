@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: Data Science
+summary: Hospital Appointment System
 tags:
 - Data Science
 - Artificial intelligence
