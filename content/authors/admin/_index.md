@@ -10,13 +10,7 @@ education:
     year: Sep 2017
   - course: M.Sc., Computer Science
     institution: Indiana University Bloomington
-    year: May 2012
- - course: Intensive Certificate Program
-    institution: University Of Connecticut
-    year: July 2010
- - course: Intensive Certificate Program
-       institution: Marmara University
-       year: June 2009          
+    year: May 2012         
   - course: B.Sc., Mathematics
     institution: Inonu University
     year: June 2008
