@@ -49,6 +49,11 @@ subtitle = "FEATURED PUBLICATIONS"
         name = "Software Engineering"
          tag = "Software Engineering"  
          
+[[content.filter_button]]
+         name = "Analytics"
+          tag = "Analytics"  
+          
+         
 
 
 [design]
