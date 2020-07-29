@@ -16,7 +16,7 @@ education:
     year: July 2010
  - course: Intensive Certificate Program
        institution: Marmara University
-       year: June 2009  
+       year: June 2009          
   - course: B.Sc., Mathematics
     institution: Inonu University
     year: June 2008
