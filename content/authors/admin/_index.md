@@ -22,6 +22,7 @@ interests:
 - Artificial Intelligence
 - Computer Science
 - Big Data
+- Teaching and Learning
 img: <img alt = 'my new screenshot' width='200' src='img/bus.jpg' />s
 
 organizations:
