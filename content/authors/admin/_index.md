@@ -19,6 +19,7 @@ interests:
 - Machine Learning
 - Data Mining
 - Data Science
+- Data Analytics
 - Artificial Intelligence
 - Computer Science
 - Big Data
