@@ -19,7 +19,7 @@ tags:
 - Machine Learning
 - Health
 - Text Mining
-Hospital Appointment System
+- Hospital Appointment System
 title: Artificial Intelligence Based Hospital Appointment Systeem
 url_code: ""
 url_pdf: ""
