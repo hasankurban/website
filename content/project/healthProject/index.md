@@ -15,6 +15,7 @@ image:
 summary: Hospital Appointment System
 tags:
 - Data Science
+- Analytics
 - Artificial intelligence
 - Machine Learning
 - Health

@@ -15,6 +15,7 @@ image:
 summary: Data Science
 tags:
 - Data Science
+- Analytics
 - Statistical Learning
 - Computer Science
 - Data Analytics
