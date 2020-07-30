@@ -28,4 +28,4 @@ url_slides: ""
 url_video: ""
 ---
 
-The fact that some of the symptoms are related to many medical treatment areas causes patients to have difficulty in making an appointment for treatment.  In this project, we design a system to find a data-driven solution to this problem.
+The fact that some of the symptoms are related to many medical treatment areas causes patients to have difficulty in making an appointment for treatment.  In this project, we design a data-drivens system to find solution to this problem.
