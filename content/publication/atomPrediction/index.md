@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Conference on Engineering and Innovative Materials, Singapore (under-review)*
-publication_short: In *International Conference on Engineering and Innovative Materials (ICEIM), Singapore (under-review)*
+publication_short: In *International Conference on Engineering and Innovative Materials (ICEIM), Singapore (accepted)*
 
 # Summary. An optional shortened abstract.
 summary:
