@@ -12,7 +12,7 @@ image:
 #slides: 
 
 
-summary: Atom Type Prediction with Machine Learning
+summary: Predicting Atom Types in Different Temperatures 
 tags:
 - Data Science
 - Material Science
