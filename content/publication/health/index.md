@@ -15,8 +15,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Journal of Advances in Engineering and
-Pure Sciences (under-review)"
+publication: "Pamukkale University Journal of Engineering Sciences  (under-review)"
 publication_short: ""
 
 
