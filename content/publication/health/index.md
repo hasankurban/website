@@ -1,6 +1,6 @@
 ---
-title: "Analysis and Modeling of Disease Symptoms and Medical Treatment Areas by
-Text Mining and Data Science Methods"
+title: "Measuring the Proximity of Medical Treatment Areas with
+Text Mining"
 authors:
 - Hasan Kurban
 date: "2020-07-13T00:00:00Z"
@@ -15,7 +15,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Pamukkale University Journal of Engineering Sciences  (under-review)"
+publication: "European Journal of Science and Technology (under-review)"
 publication_short: ""
 
 
