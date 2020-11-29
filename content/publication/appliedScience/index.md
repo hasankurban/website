@@ -24,7 +24,7 @@ publication_short: ""
 # - name: ""
 #   url: ""
 url_pdf: 
-url_code: 'https://github.com/hasankurban/Hospital-Appointment'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: 
