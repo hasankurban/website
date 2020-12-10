@@ -1,6 +1,5 @@
 ---
-title: "Classification of Atoms in Different Temperatures: Modeling 3D Geometrical
-Location of Nanoparticles with Machine Learning"
+title: "Atom Classication with Machine Learning and Correlations among Physical Properties of ZnO Nanoparticle"
 authors:
 - Hasan Kurban
 date: "2020-11-13T00:00:00Z"
@@ -15,7 +14,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SN Applied Sciences (under-review)"
+publication: "Chemical Physics (under-review)"
 publication_short: ""
 
 
