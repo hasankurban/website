@@ -2,7 +2,7 @@
 title: "Practical Data Science: Examining the Correlations between Structural and Electronic Properties of Different Phases of TiO2 Nanoparticles"
 authors:
 - Hasan Kurban
-date: "2020-12-23T00:00:00Z"
+date: "2020-12-22T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
