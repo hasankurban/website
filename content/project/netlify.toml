@@ -6,8 +6,8 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 [build]\
-  command = "hugo --gc --minify -b $URL"\
-  publish = "public"\
+  command = "hugo \'97gc --minify -b $URL"\
+   publish = "public"\
 \
 [build.environment]\
   HUGO_VERSION = \'930.79.1\'94\
@@ -17,7 +17,7 @@
   HUGO_ENV = "production"\
 \
 [context.deploy-preview]\
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"\
+  command = "hugo \'97gc --minify --buildFuture -b $DEPLOY_PRIME_URL"\
 \
 [context.branch-deploy]\
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"\
