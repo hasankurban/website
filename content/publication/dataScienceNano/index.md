@@ -12,11 +12,11 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Advanced Technologies (accepted)*
-publication_short: In *International Conference on Advanced Technologies (accepted)*
+publication: In *Journal of Selcuk-Technic*
+publication_short: In *Journal of Selcuk-Technic*
 
 # Summary. An optional shortened abstract.
 summary:
@@ -24,7 +24,7 @@ tags:
 featured: true
 
 links:
-url_pdf: ''
+url_pdf: 'http://sutod.selcuk.edu.tr/sutod/article/view/503'
 url_code:  'https://github.com/hasankurban/practical-data-science-over-nanoparticles'
 url_dataset: ''
 url_poster: ''
