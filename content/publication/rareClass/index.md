@@ -1,8 +1,9 @@
 ---
-title: "Practical Data Science: Examining the Correlations between Structural and Electronic Properties of Different Phases of TiO2 Nanoparticles"
+title: "Rare-class Learning over Mg-Doped ZnO Nanoparticles (under-review)"
 authors:
 - Hasan Kurban
-date: "2020-12-23T00:00:00Z"
+- Mustafa Kurban
+date: "2020-12-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,20 +16,20 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Selcuk-Technic*
-publication_short: In *Journal of Selcuk-Technic*
+publication: "Advances in Data Analysis and Classification"
+publication_short: ""
 
-# Summary. An optional shortened abstract.
-summary:
-tags:
-featured: true
 
-links:
-url_pdf: 'http://sutod.selcuk.edu.tr/sutod/article/view/503'
-url_code:  'https://github.com/hasankurban/practical-data-science-over-nanoparticles'
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 
+url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -38,16 +39,19 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#slides: example
 ---
 
 
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+
+
+
+
