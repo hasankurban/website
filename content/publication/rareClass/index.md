@@ -1,5 +1,5 @@
 ---
-title: "Rare-class Learning over Mg-Doped ZnO Nanoparticles (under-review)"
+title: "Rare-class Learning over Mg-Doped ZnO Nanoparticles"
 authors:
 - Hasan Kurban
 - Mustafa Kurban
@@ -16,7 +16,7 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Advances in Data Analysis and Classification"
+publication: "Advances in Data Analysis and Classification (under-review)"
 publication_short: ""
 
 
