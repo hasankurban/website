@@ -1,6 +1,6 @@
 [build]
-command = "hugo --gc --minify -b $URL"
-  publish = "publi
+ publish = "public"
+ command = "git submodule update --force --recursive --init --remote && hugo --gc --minify"
 
 [build.environment]
   HUGO_THEME = "repo"
